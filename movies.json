@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Se7en",
+            "iscore": 8.6,
+            "rating": "R",
+            "runtime": 127,
+            "released": [1995, 9, 22],
+            "country": "USA",
+            "posters": ["img/Seven.jpg", "img/Se7en.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0468569",
+            "website": "http://www.42entertainment.com/work/whysoserious",
+            "likes": 1203,
+            "dislikes": 187,
+            "posterindex": 0
+      },
+      {
+            "title": "Star Wars: Episode V - The Empire Strikes Back",
+            "iscore": 8.7,
+            "rating": "PG",
+            "runtime": 124,
+            "released": [1980, 5, 21],
+            "country": "USA",
+            "posters": ["img/Star.jpg", "img/STARWARS.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0080684/?ref_=chttp_i_15",
+            "website": "http://www.42entertainment.com/work/whysoserious",
+            "likes": 828,
+            "dislikes": 127,  
+            "posterindex": 0
+      },
+      {
+            "title": "Saving Private Ryan",
+            "iscore": 8.6,
+            "rating": "R",
+            "runtime": 169,
+            "released": [1998, 7, 24],
+            "country": "USA",
+            "posters": ["img/Ryan.jfif", "img/RyanP.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0080684/?ref_=chttp_i_15",
+            "website": "http://www.42entertainment.com/work/whysoserious",
+            "likes": 828,
+            "dislikes": 127,  
+            "posterindex": 0
       }
 ]
